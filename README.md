@@ -238,6 +238,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project
 * Noddus [Open positions](https://www.enterprise.noddus.com/careers)
 * Nuclia [Open positions](https://nuclia.com/careers/)
 * Nucoro [Open positions](https://www.nucoro.com/careers)
+* OpenSistemas [Open positions](https://opensistemas.com/category/empleo/)
 * Okta/Auth0 [Open positions](https://www.okta.com/company/careers/#careers-job-postings?department=All&location=4341)
 * Oliva [Open positions](https://apply.workable.com/oliva1/)
 * Onna (All offers are remote) [Open positions](https://boards.greenhouse.io/onna)
